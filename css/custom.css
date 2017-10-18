@@ -1,0 +1,17 @@
+caption{
+  background-color:#EEE8AA !important;
+  /*font-size:13px;*/
+  color:#333 !important;
+  font-weight:bold;
+  text-align:center;
+}
+table{
+  width: 50% !important;
+}
+th{
+    background-color:#EEE8AA !important; 
+    text-align:center;
+}
+/*.table-bordered {
+    border: 1px solid #000000;
+}*/

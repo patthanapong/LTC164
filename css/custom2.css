@@ -1,0 +1,11 @@
+table{
+  width: 30% !important;
+}
+
+caption{
+  background-color:#EEE8AA !important;
+  /*font-size:13px;*/
+  color:#333 !important;
+  font-weight:bold;
+  text-align:center;
+}
